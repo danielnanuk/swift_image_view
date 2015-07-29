@@ -13,6 +13,8 @@
 		657C1C531B6771F900CAD92D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 657C1C521B6771F900CAD92D /* Images.xcassets */; };
 		657C1C561B6771F900CAD92D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 657C1C541B6771F900CAD92D /* LaunchScreen.xib */; };
 		657C1C621B6771F900CAD92D /* ImageViewTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C1C611B6771F900CAD92D /* ImageViewTestTests.swift */; };
+		657C1C6C1B6774C600CAD92D /* DDOS_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 657C1C6B1B6774C600CAD92D /* DDOS_2.jpg */; };
+		657C1C6E1B6774D200CAD92D /* DDOS_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 657C1C6D1B6774D200CAD92D /* DDOS_1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		657C1C5B1B6771F900CAD92D /* ImageViewTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageViewTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		657C1C601B6771F900CAD92D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		657C1C611B6771F900CAD92D /* ImageViewTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewTestTests.swift; sourceTree = "<group>"; };
+		657C1C6B1B6774C600CAD92D /* DDOS_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DDOS_2.jpg; sourceTree = "<group>"; };
+		657C1C6D1B6774D200CAD92D /* DDOS_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DDOS_1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 		657C1C3D1B6771F900CAD92D = {
 			isa = PBXGroup;
 			children = (
+				657C1C6D1B6774D200CAD92D /* DDOS_1.jpg */,
+				657C1C6B1B6774C600CAD92D /* DDOS_2.jpg */,
 				657C1C481B6771F900CAD92D /* ImageViewTest */,
 				657C1C5E1B6771F900CAD92D /* ImageViewTestTests */,
 				657C1C471B6771F900CAD92D /* Products */,
@@ -192,8 +198,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				657C1C6C1B6774C600CAD92D /* DDOS_2.jpg in Resources */,
 				657C1C511B6771F900CAD92D /* Main.storyboard in Resources */,
 				657C1C561B6771F900CAD92D /* LaunchScreen.xib in Resources */,
+				657C1C6E1B6774D200CAD92D /* DDOS_1.jpg in Resources */,
 				657C1C531B6771F900CAD92D /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
